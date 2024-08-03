@@ -1,1 +1,1 @@
-Produzo msuica e faço muita coisa pra muita gente.
+Produzo música e faço muita coisa pra muita gente.
