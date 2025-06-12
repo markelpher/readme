@@ -9,7 +9,7 @@
 ### 🎯 Sobre mim
 
 Sou um programador por hobby que adora transformar grandes ideias em projetos reais. Nas horas vagas, crio conteúdo, mexo com música e exploro o mundo da tecnologia por diversão. 
-Atualmente aprendendo **Python** e me aventurando com **Docker**! 🐍🐳
+Atualmente aprendendo **Python** e **Docker**!
 
 ---
 
@@ -59,7 +59,7 @@ Atualmente aprendendo **Python** e me aventurando com **Docker**! 🐍🐳
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markelpher)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@markelpher)
-[![X](https://img.shields.io/badge/X-FF0000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/markelpher)
+[![X](https://img.shields.io/badge/X-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/markelpher)
 
 ---
 
