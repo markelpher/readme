@@ -25,7 +25,7 @@ Atualmente aprendendo **Python** e me aventurando com **Docker**! 🐍🐳
 
 ### 🚀 Projetos em Destaque
 
-- 🤖 [Kookie Chan](#) — Bot do Discord feito para o servidor da rede social Kookie!
+- 🤖 [Kookie Chan](github.com/kookie-community/kookie-chan) — Bot do Discord feito para o servidor da rede social Kookie!
 - 🧙‍♀️ Elowen (em breve) — Um projeto a caminho...
 
 ---
@@ -33,8 +33,8 @@ Atualmente aprendendo **Python** e me aventurando com **Docker**! 🐍🐳
 ### 📈 Estatísticas & Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markelpher&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markelpher&layout=compact&theme=tokyonight" />
 </p>
 
 ---
