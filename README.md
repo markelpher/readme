@@ -8,7 +8,7 @@
 
 ### 🎯 Sobre mim
 
-Sou um programador por hobby que adora transformar grandes ideias em projetos reais. Nas horas vagas, crio conteúdo, mexo com música e exploro o mundo da tecnologia por diversão. 
+Sou uma pessoa que adora aprender e transformar grandes ideias em projetos reais. Nas horas vagas, crio conteúdo, mexo com música e exploro o mundo da tecnologia por diversão. 
 Atualmente aprendendo **Python** e **Docker**!
 
 ---
@@ -25,7 +25,7 @@ Atualmente aprendendo **Python** e **Docker**!
 
 ### 🚀 Projetos em Destaque
 
-- 🤖 [Kookie Chan](github.com/kookie-community/kookie-chan) — Bot do Discord feito para o servidor da rede social Kookie!
+- 🤖 [Kookie Chan](https://github.com/Kookie-Community/Kookie-Chan) — Bot do Discord feito para o servidor da rede social brasileira Kookie!
 - 🧙‍♀️ Elowen (em breve) — Um projeto a caminho...
 
 ---
@@ -35,14 +35,6 @@ Atualmente aprendendo **Python** e **Docker**!
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markelpher&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markelpher&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUsuarioAqui&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
